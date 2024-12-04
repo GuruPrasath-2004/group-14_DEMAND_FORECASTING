@@ -1,0 +1,283 @@
+/* General Styles */
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    background-color: #f4f4f9;
+    line-height: 1.6;
+}
+
+/* Navbar */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #0077b6;
+    color: white;
+    padding: 10px 20px;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.navbar h1 {
+    margin: 0;
+    font-size: 1.8em;
+}
+
+.navbar ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.navbar ul li {
+    margin-left: 15px;
+}
+
+.navbar ul li a {
+    text-decoration: none;
+    color: white;
+    transition: color 0.3s ease-in-out;
+}
+
+.navbar ul li a:hover {
+    color: #ffdd59;
+}
+
+/* Hero Section */
+.hero {
+    text-align: center;
+    padding: 80px 20px;
+    background: linear-gradient(120deg, #00b4d8, #90e0ef);
+    color: white;
+    animation: fadeIn 1.5s ease-in-out;
+}
+
+.hero h2 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+.hero p {
+    font-size: 1.2em;
+    margin-bottom: 30px;
+}
+
+.hero form {
+    display: inline-block;
+    text-align: center;
+}
+
+.hero input[type="file"] {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.hero button {
+    background-color: #0077b6;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.hero button:hover {
+    background-color: #023e8a;
+}
+
+/* Features Section */
+.features {
+    padding: 60px 20px;
+    background: white;
+    text-align: center;
+    animation: slideUp 1.5s ease-in-out;
+}
+
+.features h2 {
+    font-size: 2em;
+    margin-bottom: 15px;
+    color: #0077b6;
+}
+
+.features p {
+    font-size: 1.1em;
+    color: #555;
+}
+
+/* Results Section */
+.results {
+    padding: 60px 20px;
+    background-color: #caf0f8;
+    text-align: center;
+}
+
+.results h2 {
+    font-size: 2em;
+    margin-bottom: 15px;
+    color: #0077b6;
+}
+
+.results p {
+    font-size: 1.1em;
+    color: #555;
+}
+
+/* Upload Section */
+.upload-section {
+    background: white;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.upload-section h2 {
+    font-size: 1.8em;
+    margin-bottom: 10px;
+    color: #007BFF;
+}
+
+.upload-section p {
+    font-size: 1.1em;
+    color: #555;
+    margin-bottom: 20px;
+}
+
+.file-label {
+    font-size: 1em;
+    margin-bottom: 10px;
+    display: block;
+    color: #333;
+}
+
+input[type="file"] {
+    padding: 10px;
+    font-size: 1em;
+    margin: 15px 0;
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    border: 2px dashed #007BFF;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    cursor: pointer;
+}
+
+input[type="file"]:hover {
+    background-color: #eef6ff;
+    border-color: #0056b3;
+}
+
+.upload-btn {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    font-size: 1.1em;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.upload-btn:hover {
+    background-color: #0056b3;
+}
+
+/* Help Section */
+.help-section {
+    background-color: #e9ecef;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.help-section h2 {
+    font-size: 1.6em;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.help-section p {
+    font-size: 1.1em;
+    color: #555;
+}
+
+.help-section a {
+    color: #007BFF;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.help-section a:hover {
+    text-decoration: underline;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #0077b6;
+    color: white;
+}
+
+footer a {
+    color: #ffdd59;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+/* Animations */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes slideUp {
+    from {
+        transform: translateY(50px);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .navbar ul {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .navbar ul li {
+        margin: 5px 0;
+    }
+
+    .hero {
+        padding: 40px 10px;
+    }
+
+    .features, .results {
+        padding: 40px 10px;
+    }
+
+    .hero h2, .features h2, .results h2 {
+        font-size: 2em;
+    }
+}

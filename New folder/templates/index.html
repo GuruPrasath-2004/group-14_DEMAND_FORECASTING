@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forecasting Dashboard</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <!-- Navigation Bar -->
+    <header>
+        <div class="navbar">
+            <h1>Forecasting Dashboard</h1>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <main>
+        <section class="hero">
+            <h2>Upload CSV for Demand Forecasting</h2>
+            <p>Analyze and forecast future trends with advanced time-series modeling.</p>
+            <form action="/upload" method="POST" enctype="multipart/form-data">
+                <input type="file" name="file" required>
+                <button type="submit">Upload and Process</button>
+            </form>
+        </section>
+
+        <!-- About Section -->
+        <section class="features" id="about">
+            <h2>About</h2>
+            <p>Our forecasting tool uses Holt-Winters Exponential Smoothing to identify demand trends for efficient inventory management. Simply upload your CSV file and get started.</p>
+        </section>
+
+        <!-- Results Section -->
+        <section class="results">
+            <h2>Results</h2>
+            <p>After uploading your data, the system generates forecasts for top-demanded products. Graphs include daily, weekly, and monthly projections.</p>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer id="contact">
+        <div class="footer-container">
+            <p>© 2024 Forecasting Dashboard. All rights reserved.</p>
+            <p>Contact us at <a href="mailto:support@forecasting.com">support@forecasting.com</a></p>
+        </div>
+    </footer>
+</body>
+</html>

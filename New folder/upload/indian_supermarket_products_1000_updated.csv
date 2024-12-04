@@ -1,0 +1,1001 @@
+Product_Code,Warehouse,Product_Category,Date,Order_Demand
+Shakti Bhog Atta,Whse_D,Category_002,2023-06-10,86
+Catch Salt,Whse_A,Category_002,2023-06-27,145
+Shakti Bhog Atta,Whse_C,Category_001,2023-04-27,238
+Toor Dal,Whse_D,Category_005,2023-07-15,112
+Basmati Rice,Whse_A,Category_004,2023-11-23,471
+MTR Ready Mix,Whse_B,Category_001,2023-03-27,279
+MTR Ready Mix,Whse_C,Category_001,2023-10-16,306
+Patanjali Shampoo,Whse_E,Category_002,2023-03-22,445
+Himalaya Face Wash,Whse_D,Category_002,2023-06-01,109
+Tata Tea,Whse_D,Category_002,2023-03-02,260
+Pillsbury Maida,Whse_D,Category_001,2023-03-02,198
+Pillsbury Maida,Whse_A,Category_004,2023-12-20,420
+Kellogg's Cornflakes,Whse_A,Category_004,2023-01-28,434
+Patanjali Shampoo,Whse_A,Category_004,2023-02-12,413
+Maggi Noodles,Whse_D,Category_004,2023-06-18,289
+Shakti Bhog Atta,Whse_E,Category_002,2023-03-27,411
+Maggi Noodles,Whse_A,Category_005,2023-06-26,387
+Kellogg's Cornflakes,Whse_B,Category_001,2023-01-17,346
+Nestle Milk,Whse_D,Category_004,2023-04-08,297
+Nescafe Coffee,Whse_C,Category_004,2023-07-17,309
+Maggi Noodles,Whse_E,Category_004,2023-04-08,360
+Pepsi,Whse_E,Category_002,2023-03-06,422
+Haldiram's Snacks,Whse_D,Category_002,2023-11-26,400
+Fortune Oil,Whse_D,Category_004,2023-12-07,288
+Basmati Rice,Whse_B,Category_001,2023-01-05,139
+Basmati Rice,Whse_B,Category_001,2023-01-02,412
+Tata Biscuits,Whse_C,Category_005,2023-01-22,265
+Saffola Oil,Whse_D,Category_002,2023-04-22,362
+Haldiram's Snacks,Whse_B,Category_003,2023-02-26,208
+Lays Chips,Whse_E,Category_002,2023-03-07,407
+Saffola Oil,Whse_C,Category_002,2023-11-26,88
+Aashirvaad Atta,Whse_B,Category_001,2023-04-08,165
+Britannia Biscuits,Whse_D,Category_002,2023-05-24,227
+Patanjali Shampoo,Whse_E,Category_004,2023-05-05,450
+Toor Dal,Whse_C,Category_001,2023-06-16,283
+Pillsbury Maida,Whse_B,Category_001,2023-03-27,186
+Patanjali Ghee,Whse_B,Category_001,2023-03-17,348
+Britannia Biscuits,Whse_A,Category_005,2023-12-10,286
+Basmati Rice,Whse_C,Category_004,2023-10-21,103
+Britannia Biscuits,Whse_C,Category_004,2023-02-28,88
+Pepsi,Whse_C,Category_003,2023-05-18,167
+Saffola Oil,Whse_A,Category_004,2023-04-09,420
+Parle-G Biscuits,Whse_B,Category_003,2023-07-11,174
+Britannia Biscuits,Whse_B,Category_003,2023-08-31,183
+Lays Chips,Whse_D,Category_001,2023-11-15,6
+Parle-G Biscuits,Whse_D,Category_005,2023-02-18,91
+Britannia Biscuits,Whse_B,Category_001,2023-02-01,343
+Himalaya Face Wash,Whse_B,Category_001,2023-10-04,357
+Fortune Oil,Whse_D,Category_005,2023-01-20,113
+Toor Dal,Whse_B,Category_001,2023-06-03,375
+Patanjali Ghee,Whse_D,Category_001,2023-03-09,128
+Haldiram's Snacks,Whse_B,Category_001,2023-08-02,110
+Fortune Oil,Whse_A,Category_004,2023-05-23,409
+Patanjali Ghee,Whse_A,Category_002,2023-08-20,112
+Tata Biscuits,Whse_B,Category_001,2023-08-01,347
+Patanjali Ghee,Whse_C,Category_004,2023-03-20,280
+Toor Dal,Whse_A,Category_005,2023-08-02,61
+Pillsbury Maida,Whse_D,Category_001,2023-04-26,163
+Parle-G Biscuits,Whse_D,Category_002,2023-04-02,36
+Britannia Biscuits,Whse_E,Category_002,2023-09-27,442
+MTR Ready Mix,Whse_D,Category_004,2023-06-17,277
+Tata Biscuits,Whse_D,Category_002,2023-02-27,94
+Parle-G Biscuits,Whse_E,Category_003,2023-10-11,140
+Himalaya Face Wash,Whse_A,Category_005,2023-01-26,429
+Basmati Rice,Whse_B,Category_001,2023-03-07,341
+Coca-Cola,Whse_B,Category_003,2023-09-05,166
+Catch Salt,Whse_B,Category_002,2023-09-11,159
+Amul Butter,Whse_E,Category_003,2023-02-13,147
+Pepsi,Whse_D,Category_002,2023-04-07,266
+Lays Chips,Whse_D,Category_004,2023-02-11,221
+Shakti Bhog Atta,Whse_D,Category_002,2023-08-15,235
+Basmati Rice,Whse_E,Category_002,2023-09-19,362
+Nestle Milk,Whse_D,Category_002,2023-06-16,342
+Patanjali Shampoo,Whse_A,Category_002,2023-10-06,58
+Amul Butter,Whse_B,Category_003,2023-03-30,173
+Shakti Bhog Atta,Whse_D,Category_005,2023-06-27,44
+Lays Chips,Whse_B,Category_003,2023-07-16,173
+Tata Biscuits,Whse_D,Category_002,2023-11-03,127
+Pepsi,Whse_B,Category_001,2023-09-24,169
+Basmati Rice,Whse_C,Category_001,2023-09-25,241
+Kellogg's Cornflakes,Whse_B,Category_001,2023-03-15,348
+Kellogg's Cornflakes,Whse_D,Category_005,2023-01-08,84
+Tata Salt,Whse_C,Category_004,2023-10-24,305
+Nestle Milk,Whse_B,Category_002,2023-06-13,198
+Patanjali Ghee,Whse_A,Category_005,2023-03-26,286
+Patanjali Shampoo,Whse_A,Category_005,2023-03-13,485
+Himalaya Face Wash,Whse_E,Category_003,2023-02-24,83
+Tata Salt,Whse_B,Category_001,2023-02-16,353
+Maggi Noodles,Whse_A,Category_005,2023-08-26,433
+Haldiram's Snacks,Whse_D,Category_002,2023-04-14,355
+Haldiram's Snacks,Whse_B,Category_001,2023-07-29,408
+Tata Tea,Whse_C,Category_005,2023-02-11,285
+Toor Dal,Whse_E,Category_004,2023-11-12,445
+Haldiram's Snacks,Whse_A,Category_004,2023-09-25,431
+Britannia Biscuits,Whse_A,Category_005,2023-09-20,425
+Tata Salt,Whse_E,Category_004,2023-12-02,443
+Lays Chips,Whse_C,Category_001,2023-12-31,303
+Patanjali Shampoo,Whse_C,Category_003,2023-09-16,187
+Maggi Noodles,Whse_E,Category_003,2023-10-10,122
+Saffola Oil,Whse_D,Category_002,2023-04-24,209
+Toor Dal,Whse_B,Category_001,2023-12-29,132
+Patanjali Ghee,Whse_D,Category_002,2023-02-09,429
+Lays Chips,Whse_A,Category_004,2023-08-08,429
+Patanjali Shampoo,Whse_B,Category_001,2023-05-09,377
+Pepsi,Whse_A,Category_005,2023-01-08,414
+Nestle Milk,Whse_B,Category_002,2023-04-11,139
+Aashirvaad Atta,Whse_C,Category_003,2023-06-25,150
+Toor Dal,Whse_D,Category_001,2023-04-17,68
+Saffola Oil,Whse_D,Category_005,2023-04-11,129
+Aashirvaad Atta,Whse_B,Category_001,2023-09-17,329
+Shakti Bhog Atta,Whse_B,Category_002,2023-09-03,133
+Nestle Milk,Whse_A,Category_004,2023-10-02,408
+Fortune Oil,Whse_B,Category_003,2023-02-01,120
+Shakti Bhog Atta,Whse_B,Category_001,2023-05-17,341
+Himalaya Face Wash,Whse_B,Category_001,2023-01-12,424
+Saffola Oil,Whse_B,Category_001,2023-10-29,321
+MTR Ready Mix,Whse_E,Category_002,2023-01-16,369
+Patanjali Ghee,Whse_D,Category_001,2023-05-09,84
+Haldiram's Snacks,Whse_E,Category_004,2023-03-04,192
+Pillsbury Maida,Whse_E,Category_003,2023-04-19,104
+Nestle Milk,Whse_D,Category_005,2023-01-21,75
+Nescafe Coffee,Whse_E,Category_002,2023-06-07,391
+Himalaya Face Wash,Whse_D,Category_004,2023-09-26,272
+Parle-G Biscuits,Whse_D,Category_002,2023-06-11,226
+Lays Chips,Whse_B,Category_001,2023-09-17,361
+MTR Ready Mix,Whse_B,Category_003,2023-04-12,126
+Himalaya Face Wash,Whse_B,Category_003,2023-08-11,192
+MTR Ready Mix,Whse_B,Category_003,2023-02-28,191
+Saffola Oil,Whse_E,Category_004,2023-09-04,196
+Shakti Bhog Atta,Whse_D,Category_004,2023-05-08,219
+Lays Chips,Whse_C,Category_001,2023-10-10,256
+Shakti Bhog Atta,Whse_D,Category_005,2023-11-21,88
+Pepsi,Whse_E,Category_004,2023-01-25,207
+Fortune Oil,Whse_C,Category_002,2023-05-11,59
+Himalaya Face Wash,Whse_B,Category_001,2023-12-19,421
+Tata Biscuits,Whse_D,Category_002,2023-07-15,71
+Shakti Bhog Atta,Whse_D,Category_004,2023-10-08,284
+Fortune Oil,Whse_D,Category_004,2023-06-03,311
+Lays Chips,Whse_C,Category_002,2023-05-13,83
+Parle-G Biscuits,Whse_B,Category_001,2023-08-15,197
+Catch Salt,Whse_B,Category_001,2023-07-08,293
+Tata Biscuits,Whse_D,Category_004,2023-09-22,332
+Toor Dal,Whse_C,Category_003,2023-05-14,204
+Haldiram's Snacks,Whse_A,Category_004,2023-07-30,457
+Fortune Oil,Whse_D,Category_001,2023-03-01,188
+Saffola Oil,Whse_A,Category_005,2023-12-30,227
+Lays Chips,Whse_B,Category_001,2023-12-30,259
+Sona Masoori Rice,Whse_C,Category_004,2023-08-01,276
+Haldiram's Snacks,Whse_C,Category_004,2023-08-04,361
+Nescafe Coffee,Whse_C,Category_002,2023-08-14,11
+Shakti Bhog Atta,Whse_C,Category_004,2023-05-11,68
+Tata Salt,Whse_A,Category_005,2023-03-17,-20
+Maggi Noodles,Whse_A,Category_004,2023-10-13,448
+Saffola Oil,Whse_D,Category_002,2023-10-04,49
+Tata Tea,Whse_D,Category_002,2023-06-05,275
+Fortune Oil,Whse_D,Category_004,2023-09-05,227
+Pillsbury Maida,Whse_B,Category_003,2023-08-06,196
+Toor Dal,Whse_D,Category_002,2023-07-09,85
+Kellogg's Cornflakes,Whse_D,Category_004,2023-06-12,248
+Parle-G Biscuits,Whse_B,Category_001,2023-06-29,354
+Fortune Oil,Whse_B,Category_001,2023-02-03,158
+Patanjali Shampoo,Whse_D,Category_002,2023-02-10,436
+Pepsi,Whse_C,Category_002,2023-11-03,1
+Himalaya Face Wash,Whse_D,Category_001,2023-12-04,97
+Amul Butter,Whse_A,Category_004,2023-11-10,343
+Nestle Milk,Whse_A,Category_004,2023-03-16,335
+Tata Tea,Whse_B,Category_001,2023-10-06,379
+Amul Butter,Whse_D,Category_004,2023-06-25,296
+Parle-G Biscuits,Whse_A,Category_005,2023-05-30,7
+Amul Butter,Whse_C,Category_004,2023-09-30,284
+Coca-Cola,Whse_B,Category_001,2023-11-21,138
+Kellogg's Cornflakes,Whse_B,Category_001,2023-04-18,329
+Tata Tea,Whse_E,Category_004,2023-05-19,417
+Tata Tea,Whse_C,Category_004,2023-12-16,127
+Coca-Cola,Whse_C,Category_004,2023-09-28,299
+Fortune Oil,Whse_C,Category_002,2023-12-13,63
+Sona Masoori Rice,Whse_C,Category_004,2023-10-16,313
+Fortune Oil,Whse_A,Category_005,2023-07-31,16
+Catch Salt,Whse_D,Category_005,2023-09-29,102
+Amul Butter,Whse_B,Category_002,2023-03-07,181
+Catch Salt,Whse_C,Category_004,2023-09-05,277
+Basmati Rice,Whse_C,Category_002,2023-06-05,25
+Nestle Milk,Whse_A,Category_005,2023-02-16,-1
+Coca-Cola,Whse_D,Category_002,2023-07-20,229
+Parle-G Biscuits,Whse_A,Category_004,2023-05-28,404
+Tata Tea,Whse_C,Category_003,2023-05-04,135
+Shakti Bhog Atta,Whse_B,Category_002,2023-01-01,186
+Nescafe Coffee,Whse_D,Category_002,2023-09-04,109
+Parle-G Biscuits,Whse_C,Category_004,2023-12-09,133
+MTR Ready Mix,Whse_D,Category_004,2023-05-08,274
+Catch Salt,Whse_D,Category_005,2023-07-10,102
+Catch Salt,Whse_D,Category_005,2023-03-08,137
+Lays Chips,Whse_D,Category_002,2023-01-04,186
+Catch Salt,Whse_A,Category_004,2023-10-30,396
+Britannia Biscuits,Whse_B,Category_003,2023-10-21,181
+Patanjali Shampoo,Whse_E,Category_004,2023-05-23,261
+Britannia Biscuits,Whse_D,Category_001,2023-07-10,113
+Shakti Bhog Atta,Whse_C,Category_003,2023-01-21,175
+Tata Tea,Whse_D,Category_002,2023-08-15,106
+Coca-Cola,Whse_A,Category_005,2023-11-09,251
+Patanjali Shampoo,Whse_A,Category_002,2023-04-27,61
+Pepsi,Whse_C,Category_001,2023-10-29,285
+Tata Tea,Whse_A,Category_005,2023-05-22,422
+Maggi Noodles,Whse_B,Category_001,2023-02-08,433
+Coca-Cola,Whse_A,Category_005,2023-12-21,22
+Saffola Oil,Whse_A,Category_004,2023-09-09,364
+Kellogg's Cornflakes,Whse_D,Category_002,2023-11-29,58
+Patanjali Shampoo,Whse_E,Category_004,2023-07-26,263
+Nescafe Coffee,Whse_D,Category_005,2023-07-29,99
+Aashirvaad Atta,Whse_A,Category_004,2023-04-25,442
+Fortune Oil,Whse_C,Category_001,2023-08-13,319
+Pillsbury Maida,Whse_A,Category_005,2023-05-14,473
+Coca-Cola,Whse_E,Category_004,2023-09-08,236
+Tata Biscuits,Whse_D,Category_002,2023-08-07,96
+Fortune Oil,Whse_C,Category_004,2023-04-01,99
+Amul Butter,Whse_D,Category_001,2023-12-20,162
+Tata Tea,Whse_E,Category_004,2023-02-15,370
+Pepsi,Whse_B,Category_003,2023-02-07,158
+Pillsbury Maida,Whse_D,Category_002,2023-05-22,342
+Tata Biscuits,Whse_A,Category_004,2023-04-10,372
+Fortune Oil,Whse_E,Category_004,2023-11-24,240
+Tata Tea,Whse_B,Category_001,2023-07-09,417
+Basmati Rice,Whse_B,Category_001,2023-02-04,392
+MTR Ready Mix,Whse_E,Category_002,2023-05-27,360
+Pillsbury Maida,Whse_C,Category_005,2023-01-30,209
+Aashirvaad Atta,Whse_B,Category_003,2023-11-30,211
+Shakti Bhog Atta,Whse_B,Category_003,2023-03-25,173
+Kellogg's Cornflakes,Whse_B,Category_001,2023-10-08,193
+Tata Salt,Whse_B,Category_001,2023-12-10,202
+Nestle Milk,Whse_A,Category_002,2023-09-27,149
+Toor Dal,Whse_B,Category_001,2023-06-03,337
+Basmati Rice,Whse_B,Category_001,2023-04-12,355
+MTR Ready Mix,Whse_A,Category_004,2023-08-03,412
+Lays Chips,Whse_D,Category_002,2023-05-30,238
+Kellogg's Cornflakes,Whse_A,Category_004,2023-03-24,364
+Catch Salt,Whse_B,Category_003,2023-04-20,209
+Saffola Oil,Whse_B,Category_001,2023-10-02,365
+Aashirvaad Atta,Whse_D,Category_002,2023-07-20,104
+Shakti Bhog Atta,Whse_B,Category_001,2023-10-11,368
+Tata Salt,Whse_C,Category_002,2023-06-22,65
+Amul Butter,Whse_C,Category_002,2023-11-23,52
+Himalaya Face Wash,Whse_B,Category_001,2023-07-25,408
+Tata Tea,Whse_C,Category_004,2023-03-04,97
+Britannia Biscuits,Whse_B,Category_001,2023-03-14,353
+Haldiram's Snacks,Whse_B,Category_001,2023-09-08,371
+Parle-G Biscuits,Whse_A,Category_002,2023-05-04,76
+Pepsi,Whse_E,Category_004,2023-05-01,253
+Pepsi,Whse_D,Category_004,2023-10-02,283
+Toor Dal,Whse_C,Category_004,2023-04-30,341
+Tata Salt,Whse_D,Category_002,2023-11-13,120
+Amul Butter,Whse_C,Category_005,2023-06-13,218
+Lays Chips,Whse_B,Category_001,2023-10-13,274
+Pillsbury Maida,Whse_C,Category_004,2023-09-22,138
+Tata Salt,Whse_D,Category_004,2023-11-16,258
+Tata Tea,Whse_B,Category_001,2023-06-10,395
+Catch Salt,Whse_A,Category_005,2023-11-04,41
+Amul Butter,Whse_C,Category_002,2023-03-30,77
+Britannia Biscuits,Whse_D,Category_001,2023-05-22,203
+Kellogg's Cornflakes,Whse_A,Category_004,2023-07-22,372
+Himalaya Face Wash,Whse_B,Category_001,2023-11-05,126
+Amul Butter,Whse_D,Category_004,2023-08-15,326
+Coca-Cola,Whse_D,Category_005,2023-11-30,76
+Haldiram's Snacks,Whse_C,Category_004,2023-08-10,60
+Tata Biscuits,Whse_E,Category_004,2023-02-10,448
+Fortune Oil,Whse_D,Category_004,2023-07-15,334
+Patanjali Shampoo,Whse_D,Category_004,2023-03-09,204
+Patanjali Ghee,Whse_A,Category_002,2023-09-21,72
+Tata Tea,Whse_A,Category_005,2023-01-02,320
+Amul Butter,Whse_B,Category_001,2023-12-27,407
+Parle-G Biscuits,Whse_A,Category_005,2023-05-05,276
+Haldiram's Snacks,Whse_D,Category_002,2023-04-20,218
+Fortune Oil,Whse_A,Category_002,2023-03-27,92
+Maggi Noodles,Whse_B,Category_001,2023-04-30,145
+Aashirvaad Atta,Whse_B,Category_001,2023-05-07,418
+Basmati Rice,Whse_D,Category_002,2023-09-12,35
+Fortune Oil,Whse_D,Category_002,2023-07-02,351
+Tata Salt,Whse_C,Category_004,2023-01-16,363
+Britannia Biscuits,Whse_A,Category_005,2023-03-03,281
+Maggi Noodles,Whse_A,Category_005,2023-06-07,60
+Basmati Rice,Whse_A,Category_005,2023-09-25,274
+Nescafe Coffee,Whse_D,Category_004,2023-02-04,290
+Patanjali Ghee,Whse_A,Category_005,2023-09-24,255
+Britannia Biscuits,Whse_C,Category_004,2023-03-05,135
+Amul Butter,Whse_A,Category_005,2023-02-19,266
+Fortune Oil,Whse_D,Category_002,2023-09-12,439
+Parle-G Biscuits,Whse_D,Category_002,2023-05-29,347
+Kellogg's Cornflakes,Whse_B,Category_003,2023-11-21,135
+Toor Dal,Whse_E,Category_004,2023-10-31,448
+Aashirvaad Atta,Whse_A,Category_004,2023-10-03,380
+Nestle Milk,Whse_A,Category_005,2023-12-23,-27
+Nescafe Coffee,Whse_C,Category_002,2023-06-21,-2
+Lays Chips,Whse_C,Category_002,2023-07-20,45
+Maggi Noodles,Whse_D,Category_001,2023-11-20,122
+Patanjali Ghee,Whse_B,Category_001,2023-02-04,405
+Maggi Noodles,Whse_D,Category_002,2023-08-04,377
+Pillsbury Maida,Whse_E,Category_002,2023-03-06,390
+Tata Salt,Whse_B,Category_001,2023-01-08,115
+Catch Salt,Whse_D,Category_002,2023-10-28,284
+Nestle Milk,Whse_C,Category_005,2023-12-09,226
+Patanjali Shampoo,Whse_A,Category_004,2023-11-28,368
+Tata Salt,Whse_A,Category_005,2023-03-17,465
+Catch Salt,Whse_A,Category_004,2023-06-23,323
+Patanjali Ghee,Whse_A,Category_004,2023-02-16,430
+Toor Dal,Whse_D,Category_004,2023-01-15,291
+MTR Ready Mix,Whse_C,Category_004,2023-12-27,95
+Nestle Milk,Whse_A,Category_005,2023-05-27,257
+Toor Dal,Whse_C,Category_003,2023-01-26,129
+Patanjali Ghee,Whse_C,Category_005,2023-11-04,282
+Kellogg's Cornflakes,Whse_D,Category_004,2023-04-03,339
+Tata Salt,Whse_A,Category_005,2023-08-20,7
+Toor Dal,Whse_A,Category_002,2023-01-21,90
+MTR Ready Mix,Whse_D,Category_002,2023-11-03,424
+Sona Masoori Rice,Whse_C,Category_005,2023-02-07,306
+Maggi Noodles,Whse_E,Category_004,2023-10-03,447
+Catch Salt,Whse_A,Category_004,2023-06-06,509
+Nestle Milk,Whse_C,Category_003,2023-06-28,130
+Patanjali Shampoo,Whse_D,Category_001,2023-05-12,96
+Fortune Oil,Whse_D,Category_001,2023-11-07,21
+Aashirvaad Atta,Whse_C,Category_002,2023-12-14,79
+Parle-G Biscuits,Whse_D,Category_004,2023-01-28,251
+Shakti Bhog Atta,Whse_B,Category_003,2023-09-17,173
+Pepsi,Whse_C,Category_004,2023-03-17,76
+MTR Ready Mix,Whse_C,Category_005,2023-03-08,287
+Saffola Oil,Whse_D,Category_001,2023-12-08,64
+Tata Tea,Whse_C,Category_001,2023-07-13,264
+Pepsi,Whse_C,Category_004,2023-06-11,371
+MTR Ready Mix,Whse_A,Category_002,2023-12-13,85
+Saffola Oil,Whse_B,Category_003,2023-12-27,187
+Nestle Milk,Whse_C,Category_004,2023-09-14,74
+Kellogg's Cornflakes,Whse_A,Category_005,2023-03-13,399
+Saffola Oil,Whse_D,Category_001,2023-03-28,131
+Nestle Milk,Whse_D,Category_002,2023-09-19,233
+Maggi Noodles,Whse_C,Category_004,2023-08-02,291
+Sona Masoori Rice,Whse_C,Category_003,2023-06-02,113
+Tata Salt,Whse_D,Category_001,2023-07-29,117
+Saffola Oil,Whse_A,Category_002,2023-03-02,119
+Parle-G Biscuits,Whse_D,Category_002,2023-09-25,51
+MTR Ready Mix,Whse_A,Category_002,2023-09-19,85
+Tata Biscuits,Whse_D,Category_004,2023-08-06,233
+Maggi Noodles,Whse_C,Category_002,2023-10-10,73
+Catch Salt,Whse_B,Category_001,2023-05-16,317
+Aashirvaad Atta,Whse_D,Category_002,2023-12-28,120
+Sona Masoori Rice,Whse_E,Category_003,2023-04-03,91
+Maggi Noodles,Whse_B,Category_001,2023-04-19,288
+Coca-Cola,Whse_C,Category_002,2023-08-29,35
+Nestle Milk,Whse_A,Category_004,2023-12-21,461
+Basmati Rice,Whse_B,Category_003,2023-05-22,173
+Pepsi,Whse_B,Category_001,2023-10-18,341
+Lays Chips,Whse_B,Category_001,2023-08-25,360
+Sona Masoori Rice,Whse_E,Category_003,2023-12-06,96
+Patanjali Ghee,Whse_A,Category_004,2023-11-08,418
+Catch Salt,Whse_C,Category_003,2023-06-26,126
+Pillsbury Maida,Whse_B,Category_001,2023-05-21,366
+Maggi Noodles,Whse_A,Category_004,2023-07-08,466
+Amul Butter,Whse_C,Category_004,2023-02-18,299
+Basmati Rice,Whse_D,Category_002,2023-10-29,98
+Lays Chips,Whse_B,Category_003,2023-07-09,216
+Saffola Oil,Whse_D,Category_001,2023-05-16,72
+Nestle Milk,Whse_D,Category_002,2023-02-12,246
+Patanjali Ghee,Whse_D,Category_001,2023-12-19,51
+Sona Masoori Rice,Whse_B,Category_001,2023-03-31,352
+Toor Dal,Whse_A,Category_002,2023-10-22,56
+Haldiram's Snacks,Whse_B,Category_003,2023-12-07,154
+Fortune Oil,Whse_A,Category_005,2023-09-02,288
+Basmati Rice,Whse_D,Category_002,2023-07-11,389
+MTR Ready Mix,Whse_C,Category_002,2023-11-14,14
+Pillsbury Maida,Whse_D,Category_001,2023-04-16,47
+Parle-G Biscuits,Whse_B,Category_001,2023-12-29,428
+Toor Dal,Whse_B,Category_001,2023-11-06,136
+Britannia Biscuits,Whse_A,Category_005,2023-08-21,64
+Lays Chips,Whse_A,Category_005,2023-09-22,17
+Toor Dal,Whse_C,Category_004,2023-12-10,47
+Nescafe Coffee,Whse_A,Category_004,2023-02-06,419
+Pepsi,Whse_D,Category_004,2023-11-01,222
+Britannia Biscuits,Whse_D,Category_004,2023-02-10,209
+Basmati Rice,Whse_C,Category_004,2023-01-17,364
+Himalaya Face Wash,Whse_D,Category_001,2023-12-10,156
+Tata Salt,Whse_D,Category_001,2023-10-04,56
+Sona Masoori Rice,Whse_D,Category_001,2023-11-03,98
+MTR Ready Mix,Whse_C,Category_004,2023-02-28,370
+Patanjali Shampoo,Whse_A,Category_002,2023-07-02,112
+Fortune Oil,Whse_D,Category_004,2023-02-10,364
+Pillsbury Maida,Whse_E,Category_004,2023-02-08,421
+MTR Ready Mix,Whse_D,Category_004,2023-07-11,352
+Patanjali Ghee,Whse_C,Category_002,2023-09-24,29
+Tata Salt,Whse_D,Category_004,2023-05-27,354
+Catch Salt,Whse_A,Category_002,2023-11-29,85
+Himalaya Face Wash,Whse_A,Category_004,2023-05-07,477
+Shakti Bhog Atta,Whse_A,Category_005,2023-02-15,242
+Catch Salt,Whse_B,Category_001,2023-02-14,283
+Aashirvaad Atta,Whse_A,Category_005,2023-01-01,480
+Sona Masoori Rice,Whse_C,Category_005,2023-06-17,261
+Tata Tea,Whse_B,Category_001,2023-04-18,316
+Nestle Milk,Whse_A,Category_002,2023-01-19,119
+Shakti Bhog Atta,Whse_B,Category_001,2023-11-28,382
+Kellogg's Cornflakes,Whse_C,Category_004,2023-03-13,295
+Tata Tea,Whse_D,Category_001,2023-04-19,35
+Patanjali Ghee,Whse_B,Category_001,2023-09-25,383
+Pillsbury Maida,Whse_B,Category_001,2023-08-28,419
+Parle-G Biscuits,Whse_C,Category_004,2023-10-28,294
+Tata Salt,Whse_B,Category_001,2023-03-31,399
+Coca-Cola,Whse_C,Category_001,2023-04-13,250
+Tata Tea,Whse_E,Category_003,2023-09-07,71
+Haldiram's Snacks,Whse_B,Category_002,2023-01-08,214
+Patanjali Ghee,Whse_E,Category_003,2023-06-02,86
+Tata Salt,Whse_D,Category_002,2023-12-13,373
+Saffola Oil,Whse_E,Category_004,2023-06-23,367
+Amul Butter,Whse_C,Category_004,2023-12-09,314
+Sona Masoori Rice,Whse_D,Category_001,2023-06-07,51
+Haldiram's Snacks,Whse_C,Category_001,2023-08-03,262
+Britannia Biscuits,Whse_D,Category_004,2023-06-26,278
+Shakti Bhog Atta,Whse_A,Category_005,2023-06-24,427
+Lays Chips,Whse_C,Category_002,2023-12-06,23
+Tata Salt,Whse_A,Category_005,2023-12-04,484
+Toor Dal,Whse_C,Category_002,2023-05-26,47
+Nescafe Coffee,Whse_B,Category_002,2023-11-20,149
+Toor Dal,Whse_E,Category_002,2023-06-10,382
+Tata Salt,Whse_D,Category_001,2023-05-07,16
+Pillsbury Maida,Whse_A,Category_002,2023-03-23,112
+Haldiram's Snacks,Whse_D,Category_004,2023-05-27,274
+Sona Masoori Rice,Whse_B,Category_001,2023-08-27,315
+Pillsbury Maida,Whse_D,Category_002,2023-03-25,70
+Tata Tea,Whse_C,Category_004,2023-04-23,316
+Pepsi,Whse_A,Category_005,2023-08-13,244
+Toor Dal,Whse_C,Category_002,2023-11-28,62
+Pepsi,Whse_D,Category_001,2023-08-31,11
+Catch Salt,Whse_B,Category_001,2023-05-23,122
+Basmati Rice,Whse_C,Category_004,2023-02-10,55
+Fortune Oil,Whse_D,Category_001,2023-09-15,186
+Haldiram's Snacks,Whse_E,Category_004,2023-10-12,445
+Basmati Rice,Whse_A,Category_004,2023-04-15,335
+Haldiram's Snacks,Whse_E,Category_004,2023-07-21,450
+Saffola Oil,Whse_B,Category_002,2023-11-03,222
+Catch Salt,Whse_B,Category_001,2023-11-27,402
+Haldiram's Snacks,Whse_C,Category_005,2023-09-23,239
+Sona Masoori Rice,Whse_C,Category_005,2023-07-29,294
+Tata Salt,Whse_E,Category_004,2023-02-20,247
+Tata Salt,Whse_D,Category_001,2023-04-28,196
+Britannia Biscuits,Whse_E,Category_004,2023-07-20,409
+Patanjali Ghee,Whse_B,Category_001,2023-02-08,283
+Pepsi,Whse_C,Category_004,2023-01-28,99
+Parle-G Biscuits,Whse_C,Category_004,2023-09-16,104
+Lays Chips,Whse_D,Category_002,2023-03-25,402
+Toor Dal,Whse_E,Category_002,2023-06-04,380
+Maggi Noodles,Whse_B,Category_001,2023-04-27,394
+Lays Chips,Whse_C,Category_002,2023-01-02,55
+Toor Dal,Whse_B,Category_003,2023-04-03,205
+Fortune Oil,Whse_D,Category_005,2023-06-15,89
+Pepsi,Whse_C,Category_002,2023-12-16,49
+Shakti Bhog Atta,Whse_A,Category_005,2023-10-23,13
+Fortune Oil,Whse_B,Category_003,2023-09-15,189
+Parle-G Biscuits,Whse_C,Category_001,2023-03-22,238
+Nestle Milk,Whse_D,Category_001,2023-09-25,57
+Parle-G Biscuits,Whse_D,Category_001,2023-08-23,170
+Haldiram's Snacks,Whse_A,Category_005,2023-11-17,482
+Sona Masoori Rice,Whse_C,Category_004,2023-11-07,279
+Pillsbury Maida,Whse_A,Category_005,2023-10-28,277
+Patanjali Ghee,Whse_A,Category_005,2023-12-23,284
+Himalaya Face Wash,Whse_B,Category_001,2023-08-01,111
+Toor Dal,Whse_B,Category_003,2023-03-03,187
+MTR Ready Mix,Whse_B,Category_001,2023-02-18,342
+Tata Biscuits,Whse_C,Category_001,2023-05-07,319
+Tata Biscuits,Whse_B,Category_002,2023-08-11,218
+Aashirvaad Atta,Whse_E,Category_002,2023-10-06,405
+Tata Biscuits,Whse_C,Category_005,2023-10-21,306
+Toor Dal,Whse_C,Category_004,2023-10-11,326
+Tata Tea,Whse_B,Category_003,2023-10-04,159
+Pepsi,Whse_D,Category_004,2023-04-17,237
+Toor Dal,Whse_A,Category_005,2023-05-26,-13
+Himalaya Face Wash,Whse_D,Category_004,2023-04-09,280
+Pillsbury Maida,Whse_C,Category_001,2023-03-14,253
+Coca-Cola,Whse_A,Category_005,2023-05-02,243
+Shakti Bhog Atta,Whse_B,Category_002,2023-01-30,141
+Britannia Biscuits,Whse_E,Category_002,2023-07-07,421
+MTR Ready Mix,Whse_C,Category_003,2023-12-30,124
+Tata Biscuits,Whse_C,Category_004,2023-12-20,363
+Britannia Biscuits,Whse_B,Category_003,2023-10-15,177
+Tata Salt,Whse_C,Category_002,2023-07-14,52
+Lays Chips,Whse_A,Category_002,2023-06-05,142
+Britannia Biscuits,Whse_C,Category_003,2023-06-21,195
+Haldiram's Snacks,Whse_C,Category_001,2023-12-01,285
+Tata Biscuits,Whse_E,Category_002,2023-02-10,381
+Amul Butter,Whse_A,Category_004,2023-03-04,329
+Saffola Oil,Whse_C,Category_002,2023-01-23,9
+Saffola Oil,Whse_C,Category_004,2023-12-26,272
+Basmati Rice,Whse_E,Category_003,2023-03-16,127
+Fortune Oil,Whse_B,Category_001,2023-02-17,334
+Fortune Oil,Whse_A,Category_004,2023-06-09,403
+Amul Butter,Whse_C,Category_003,2023-11-09,201
+Maggi Noodles,Whse_E,Category_004,2023-04-28,406
+Kellogg's Cornflakes,Whse_D,Category_002,2023-04-10,274
+Aashirvaad Atta,Whse_C,Category_004,2023-06-16,272
+Amul Butter,Whse_B,Category_001,2023-10-17,274
+Sona Masoori Rice,Whse_B,Category_002,2023-06-05,185
+Sona Masoori Rice,Whse_D,Category_004,2023-01-07,331
+Fortune Oil,Whse_E,Category_003,2023-07-15,132
+Patanjali Ghee,Whse_D,Category_005,2023-02-25,109
+Amul Butter,Whse_E,Category_004,2023-11-17,380
+Pillsbury Maida,Whse_A,Category_004,2023-07-12,413
+Aashirvaad Atta,Whse_D,Category_002,2023-02-16,407
+Sona Masoori Rice,Whse_C,Category_003,2023-05-28,181
+Tata Salt,Whse_C,Category_004,2023-10-02,67
+Amul Butter,Whse_A,Category_004,2023-06-06,385
+Nescafe Coffee,Whse_D,Category_002,2023-07-21,391
+Catch Salt,Whse_D,Category_002,2023-05-06,271
+Haldiram's Snacks,Whse_A,Category_005,2023-11-01,281
+Amul Butter,Whse_B,Category_001,2023-10-21,287
+Aashirvaad Atta,Whse_C,Category_002,2023-03-05,75
+Catch Salt,Whse_D,Category_004,2023-11-21,277
+Aashirvaad Atta,Whse_A,Category_004,2023-06-25,479
+MTR Ready Mix,Whse_E,Category_004,2023-04-26,405
+Toor Dal,Whse_D,Category_001,2023-07-23,97
+Nescafe Coffee,Whse_D,Category_002,2023-11-17,96
+Lays Chips,Whse_C,Category_001,2023-01-31,292
+Catch Salt,Whse_A,Category_004,2023-04-23,445
+Patanjali Ghee,Whse_A,Category_004,2023-12-31,336
+Shakti Bhog Atta,Whse_D,Category_002,2023-11-21,275
+Lays Chips,Whse_C,Category_004,2023-12-10,361
+Tata Tea,Whse_E,Category_003,2023-03-08,117
+MTR Ready Mix,Whse_B,Category_001,2023-03-16,418
+Patanjali Shampoo,Whse_D,Category_004,2023-02-14,306
+Coca-Cola,Whse_E,Category_004,2023-09-17,284
+Amul Butter,Whse_B,Category_003,2023-06-03,152
+Aashirvaad Atta,Whse_D,Category_002,2023-06-04,279
+Basmati Rice,Whse_D,Category_002,2023-12-29,57
+Parle-G Biscuits,Whse_B,Category_001,2023-08-22,343
+Lays Chips,Whse_A,Category_005,2023-02-20,454
+Patanjali Shampoo,Whse_E,Category_004,2023-11-02,284
+Pillsbury Maida,Whse_A,Category_002,2023-09-19,86
+Parle-G Biscuits,Whse_C,Category_002,2023-11-11,49
+Lays Chips,Whse_B,Category_001,2023-05-05,353
+Lays Chips,Whse_B,Category_002,2023-09-02,134
+Pillsbury Maida,Whse_D,Category_001,2023-01-30,22
+Aashirvaad Atta,Whse_B,Category_002,2023-05-02,182
+Parle-G Biscuits,Whse_B,Category_001,2023-05-05,202
+Fortune Oil,Whse_D,Category_001,2023-02-06,111
+Kellogg's Cornflakes,Whse_A,Category_004,2023-06-19,389
+Tata Salt,Whse_D,Category_005,2023-05-04,44
+Kellogg's Cornflakes,Whse_B,Category_003,2023-12-23,135
+Himalaya Face Wash,Whse_D,Category_002,2023-02-04,364
+Lays Chips,Whse_D,Category_002,2023-03-28,420
+Sona Masoori Rice,Whse_A,Category_004,2023-05-14,322
+MTR Ready Mix,Whse_C,Category_003,2023-07-15,197
+Lays Chips,Whse_E,Category_004,2023-10-01,390
+Patanjali Shampoo,Whse_D,Category_001,2023-07-20,201
+Fortune Oil,Whse_B,Category_001,2023-10-12,417
+Toor Dal,Whse_D,Category_002,2023-03-18,209
+Sona Masoori Rice,Whse_C,Category_003,2023-02-28,117
+Saffola Oil,Whse_B,Category_001,2023-05-06,386
+Pillsbury Maida,Whse_C,Category_001,2023-04-19,258
+Maggi Noodles,Whse_E,Category_004,2023-08-12,391
+Tata Salt,Whse_D,Category_002,2023-10-05,218
+Britannia Biscuits,Whse_D,Category_002,2023-03-09,246
+Sona Masoori Rice,Whse_E,Category_004,2023-03-10,409
+Patanjali Ghee,Whse_A,Category_005,2023-06-14,267
+Tata Tea,Whse_A,Category_002,2023-11-01,64
+Lays Chips,Whse_A,Category_004,2023-06-11,436
+Tata Tea,Whse_C,Category_005,2023-12-31,272
+Parle-G Biscuits,Whse_D,Category_005,2023-12-08,73
+Kellogg's Cornflakes,Whse_E,Category_004,2023-11-05,398
+Britannia Biscuits,Whse_A,Category_004,2023-12-09,484
+Kellogg's Cornflakes,Whse_B,Category_003,2023-02-11,162
+Coca-Cola,Whse_A,Category_005,2023-12-20,15
+Britannia Biscuits,Whse_C,Category_002,2023-04-19,26
+Britannia Biscuits,Whse_B,Category_001,2023-02-20,271
+Basmati Rice,Whse_E,Category_002,2023-09-07,370
+Toor Dal,Whse_B,Category_003,2023-12-07,214
+Saffola Oil,Whse_B,Category_001,2023-01-21,152
+Basmati Rice,Whse_B,Category_001,2023-10-27,108
+Tata Tea,Whse_A,Category_005,2023-05-19,6
+Pillsbury Maida,Whse_D,Category_002,2023-12-25,121
+Patanjali Shampoo,Whse_A,Category_005,2023-11-20,466
+Maggi Noodles,Whse_C,Category_005,2023-04-02,297
+Lays Chips,Whse_E,Category_004,2023-10-07,192
+Himalaya Face Wash,Whse_A,Category_002,2023-05-05,145
+MTR Ready Mix,Whse_B,Category_001,2023-04-21,362
+Toor Dal,Whse_D,Category_005,2023-12-20,114
+Maggi Noodles,Whse_C,Category_004,2023-05-19,361
+Nescafe Coffee,Whse_A,Category_004,2023-09-30,354
+Catch Salt,Whse_B,Category_001,2023-04-09,265
+Maggi Noodles,Whse_A,Category_002,2023-09-09,120
+Kellogg's Cornflakes,Whse_D,Category_001,2023-12-04,61
+Shakti Bhog Atta,Whse_E,Category_004,2023-04-14,259
+Kellogg's Cornflakes,Whse_E,Category_003,2023-08-02,98
+MTR Ready Mix,Whse_B,Category_003,2023-09-06,155
+Coca-Cola,Whse_A,Category_004,2023-06-01,458
+Parle-G Biscuits,Whse_B,Category_001,2023-09-07,357
+Tata Biscuits,Whse_D,Category_001,2023-10-02,146
+Aashirvaad Atta,Whse_A,Category_005,2023-06-14,234
+Nestle Milk,Whse_D,Category_004,2023-12-07,340
+Basmati Rice,Whse_C,Category_003,2023-01-08,129
+MTR Ready Mix,Whse_D,Category_001,2023-10-11,174
+Aashirvaad Atta,Whse_B,Category_003,2023-01-05,218
+Maggi Noodles,Whse_D,Category_002,2023-05-25,234
+Parle-G Biscuits,Whse_A,Category_004,2023-04-11,419
+Maggi Noodles,Whse_D,Category_002,2023-06-13,221
+Pepsi,Whse_A,Category_005,2023-05-27,53
+MTR Ready Mix,Whse_D,Category_002,2023-03-05,281
+Himalaya Face Wash,Whse_E,Category_002,2023-04-01,382
+Basmati Rice,Whse_B,Category_001,2023-04-27,359
+Parle-G Biscuits,Whse_A,Category_004,2023-12-20,382
+Tata Biscuits,Whse_C,Category_003,2023-09-24,201
+Coca-Cola,Whse_D,Category_004,2023-11-06,222
+Tata Salt,Whse_B,Category_001,2023-06-22,118
+Coca-Cola,Whse_E,Category_002,2023-02-16,413
+Kellogg's Cornflakes,Whse_C,Category_002,2023-05-20,10
+Aashirvaad Atta,Whse_D,Category_002,2023-09-03,208
+Sona Masoori Rice,Whse_D,Category_002,2023-05-29,274
+Lays Chips,Whse_C,Category_002,2023-09-03,96
+Maggi Noodles,Whse_D,Category_005,2023-01-05,70
+Patanjali Shampoo,Whse_D,Category_002,2023-07-03,357
+Haldiram's Snacks,Whse_B,Category_001,2023-01-20,398
+Fortune Oil,Whse_E,Category_004,2023-02-15,442
+Himalaya Face Wash,Whse_D,Category_001,2023-01-12,92
+Sona Masoori Rice,Whse_B,Category_001,2023-03-11,419
+Shakti Bhog Atta,Whse_B,Category_001,2023-01-17,271
+Tata Biscuits,Whse_E,Category_004,2023-05-27,243
+Amul Butter,Whse_E,Category_002,2023-06-03,377
+Tata Biscuits,Whse_C,Category_002,2023-10-31,46
+Tata Biscuits,Whse_D,Category_001,2023-04-18,103
+Himalaya Face Wash,Whse_C,Category_001,2023-08-24,235
+Patanjali Shampoo,Whse_D,Category_002,2023-11-04,95
+Aashirvaad Atta,Whse_C,Category_003,2023-12-18,124
+Aashirvaad Atta,Whse_A,Category_005,2023-03-11,47
+Catch Salt,Whse_E,Category_004,2023-07-02,367
+Maggi Noodles,Whse_C,Category_001,2023-09-07,294
+Tata Tea,Whse_A,Category_004,2023-08-16,348
+Patanjali Ghee,Whse_C,Category_004,2023-04-12,349
+Shakti Bhog Atta,Whse_B,Category_001,2023-03-16,201
+Saffola Oil,Whse_D,Category_002,2023-08-04,237
+Kellogg's Cornflakes,Whse_D,Category_001,2023-07-22,86
+Maggi Noodles,Whse_D,Category_001,2023-07-11,126
+Maggi Noodles,Whse_A,Category_005,2023-09-06,40
+Pepsi,Whse_E,Category_004,2023-08-30,457
+Britannia Biscuits,Whse_B,Category_001,2023-06-28,345
+Toor Dal,Whse_C,Category_001,2023-08-07,248
+Shakti Bhog Atta,Whse_B,Category_002,2023-03-23,176
+Pillsbury Maida,Whse_B,Category_003,2023-04-02,204
+Tata Salt,Whse_A,Category_005,2023-06-24,71
+Kellogg's Cornflakes,Whse_D,Category_005,2023-08-27,93
+Fortune Oil,Whse_A,Category_005,2023-09-17,247
+Fortune Oil,Whse_B,Category_001,2023-12-31,352
+Haldiram's Snacks,Whse_B,Category_002,2023-06-12,181
+Britannia Biscuits,Whse_B,Category_001,2023-02-17,375
+Britannia Biscuits,Whse_A,Category_002,2023-11-25,105
+Pepsi,Whse_A,Category_005,2023-11-24,13
+Patanjali Shampoo,Whse_B,Category_001,2023-04-26,164
+MTR Ready Mix,Whse_D,Category_001,2023-12-03,42
+Pillsbury Maida,Whse_D,Category_002,2023-12-03,199
+Tata Tea,Whse_D,Category_002,2023-08-13,280
+Lays Chips,Whse_D,Category_001,2023-12-18,8
+Fortune Oil,Whse_E,Category_002,2023-11-24,393
+Nestle Milk,Whse_D,Category_002,2023-05-27,121
+Nescafe Coffee,Whse_A,Category_005,2023-03-04,478
+Maggi Noodles,Whse_C,Category_002,2023-10-21,72
+Toor Dal,Whse_B,Category_001,2023-11-19,354
+Catch Salt,Whse_B,Category_001,2023-11-21,412
+Parle-G Biscuits,Whse_A,Category_005,2023-01-13,-20
+Lays Chips,Whse_A,Category_004,2023-07-08,394
+Saffola Oil,Whse_D,Category_002,2023-10-14,243
+Toor Dal,Whse_A,Category_004,2023-07-27,386
+Himalaya Face Wash,Whse_E,Category_004,2023-04-24,365
+Tata Tea,Whse_A,Category_005,2023-01-22,17
+Shakti Bhog Atta,Whse_A,Category_005,2023-12-15,398
+Kellogg's Cornflakes,Whse_D,Category_002,2023-08-02,380
+Maggi Noodles,Whse_A,Category_002,2023-06-20,94
+Pillsbury Maida,Whse_C,Category_003,2023-11-19,114
+MTR Ready Mix,Whse_A,Category_004,2023-02-23,419
+Britannia Biscuits,Whse_D,Category_002,2023-10-25,212
+Pepsi,Whse_D,Category_001,2023-11-16,176
+Maggi Noodles,Whse_D,Category_002,2023-05-06,190
+Nescafe Coffee,Whse_C,Category_002,2023-10-04,26
+Haldiram's Snacks,Whse_D,Category_004,2023-07-23,304
+Patanjali Shampoo,Whse_A,Category_005,2023-07-13,9
+Pepsi,Whse_E,Category_004,2023-06-18,267
+Pillsbury Maida,Whse_A,Category_005,2023-06-01,393
+Catch Salt,Whse_D,Category_001,2023-02-04,68
+Sona Masoori Rice,Whse_D,Category_004,2023-07-03,353
+Sona Masoori Rice,Whse_D,Category_001,2023-10-13,20
+Lays Chips,Whse_A,Category_004,2023-02-26,391
+Nestle Milk,Whse_D,Category_002,2023-08-10,429
+Tata Biscuits,Whse_A,Category_005,2023-10-30,269
+Haldiram's Snacks,Whse_B,Category_003,2023-06-12,123
+Kellogg's Cornflakes,Whse_C,Category_004,2023-01-19,77
+Coca-Cola,Whse_A,Category_002,2023-09-21,122
+Lays Chips,Whse_D,Category_004,2023-10-09,298
+Tata Salt,Whse_B,Category_001,2023-04-23,125
+Patanjali Shampoo,Whse_E,Category_003,2023-11-23,130
+MTR Ready Mix,Whse_C,Category_004,2023-01-30,325
+Amul Butter,Whse_B,Category_003,2023-05-15,158
+Kellogg's Cornflakes,Whse_C,Category_002,2023-03-08,88
+Nestle Milk,Whse_C,Category_002,2023-03-06,71
+Britannia Biscuits,Whse_C,Category_001,2023-10-19,313
+Shakti Bhog Atta,Whse_D,Category_001,2023-01-25,129
+Pillsbury Maida,Whse_A,Category_004,2023-02-06,449
+Lays Chips,Whse_A,Category_005,2023-01-01,38
+Parle-G Biscuits,Whse_B,Category_001,2023-02-06,151
+Lays Chips,Whse_C,Category_004,2023-05-21,284
+Maggi Noodles,Whse_C,Category_002,2023-08-20,89
+Haldiram's Snacks,Whse_C,Category_002,2023-05-16,55
+Maggi Noodles,Whse_B,Category_001,2023-07-07,278
+Haldiram's Snacks,Whse_A,Category_004,2023-05-08,461
+Amul Butter,Whse_A,Category_004,2023-07-20,482
+MTR Ready Mix,Whse_B,Category_001,2023-05-07,167
+Nestle Milk,Whse_C,Category_001,2023-09-14,262
+Himalaya Face Wash,Whse_E,Category_004,2023-06-13,185
+Catch Salt,Whse_B,Category_001,2023-02-04,109
+Catch Salt,Whse_C,Category_003,2023-07-13,182
+Himalaya Face Wash,Whse_B,Category_002,2023-07-10,216
+Pepsi,Whse_D,Category_002,2023-04-14,402
+Catch Salt,Whse_C,Category_001,2023-01-23,286
+Parle-G Biscuits,Whse_D,Category_001,2023-09-22,135
+Pillsbury Maida,Whse_E,Category_003,2023-10-17,125
+Toor Dal,Whse_C,Category_004,2023-09-17,304
+Lays Chips,Whse_A,Category_004,2023-12-24,358
+Shakti Bhog Atta,Whse_A,Category_005,2023-03-16,230
+Sona Masoori Rice,Whse_D,Category_002,2023-12-21,243
+Nescafe Coffee,Whse_B,Category_001,2023-03-13,302
+Pillsbury Maida,Whse_C,Category_001,2023-09-16,268
+Shakti Bhog Atta,Whse_D,Category_002,2023-07-07,217
+Tata Biscuits,Whse_A,Category_004,2023-06-22,414
+MTR Ready Mix,Whse_D,Category_002,2023-10-17,246
+Coca-Cola,Whse_B,Category_001,2023-02-14,383
+Nestle Milk,Whse_D,Category_002,2023-03-02,361
+Parle-G Biscuits,Whse_D,Category_001,2023-03-24,190
+Catch Salt,Whse_D,Category_004,2023-05-03,270
+Himalaya Face Wash,Whse_D,Category_002,2023-12-24,109
+Aashirvaad Atta,Whse_A,Category_005,2023-01-16,421
+Basmati Rice,Whse_D,Category_002,2023-03-07,284
+Coca-Cola,Whse_E,Category_002,2023-05-25,377
+Tata Salt,Whse_E,Category_003,2023-06-11,89
+Catch Salt,Whse_E,Category_004,2023-08-22,241
+Tata Biscuits,Whse_A,Category_004,2023-05-24,428
+MTR Ready Mix,Whse_C,Category_001,2023-12-24,270
+Amul Butter,Whse_D,Category_004,2023-07-07,316
+Nestle Milk,Whse_A,Category_005,2023-11-18,399
+Shakti Bhog Atta,Whse_B,Category_001,2023-01-13,348
+Pepsi,Whse_E,Category_002,2023-07-03,389
+Aashirvaad Atta,Whse_C,Category_001,2023-04-21,224
+Shakti Bhog Atta,Whse_B,Category_001,2023-10-17,387
+Maggi Noodles,Whse_A,Category_005,2023-10-22,388
+Tata Tea,Whse_A,Category_004,2023-08-03,385
+Patanjali Shampoo,Whse_A,Category_005,2023-04-30,58
+Saffola Oil,Whse_D,Category_004,2023-02-24,242
+Maggi Noodles,Whse_D,Category_004,2023-01-27,342
+Basmati Rice,Whse_C,Category_004,2023-04-28,283
+Nestle Milk,Whse_A,Category_005,2023-08-09,298
+Aashirvaad Atta,Whse_C,Category_004,2023-08-19,367
+Tata Salt,Whse_D,Category_001,2023-02-22,19
+Basmati Rice,Whse_A,Category_005,2023-10-22,457
+Fortune Oil,Whse_E,Category_003,2023-11-17,145
+Maggi Noodles,Whse_A,Category_005,2023-08-21,248
+Tata Salt,Whse_D,Category_002,2023-06-07,62
+Tata Tea,Whse_D,Category_004,2023-09-26,275
+Toor Dal,Whse_A,Category_004,2023-01-21,412
+Himalaya Face Wash,Whse_B,Category_001,2023-02-22,372
+Pepsi,Whse_A,Category_005,2023-10-02,61
+Tata Tea,Whse_B,Category_001,2023-11-09,114
+Lays Chips,Whse_A,Category_005,2023-10-08,282
+Haldiram's Snacks,Whse_A,Category_004,2023-08-02,380
+Amul Butter,Whse_E,Category_004,2023-01-31,234
+Nescafe Coffee,Whse_A,Category_004,2023-12-03,348
+Nescafe Coffee,Whse_B,Category_001,2023-07-02,425
+Toor Dal,Whse_C,Category_004,2023-01-23,312
+Britannia Biscuits,Whse_D,Category_004,2023-02-01,285
+Saffola Oil,Whse_B,Category_001,2023-03-15,400
+Parle-G Biscuits,Whse_A,Category_005,2023-01-10,251
+Britannia Biscuits,Whse_A,Category_005,2023-02-23,287
+Sona Masoori Rice,Whse_B,Category_001,2023-02-21,353
+Fortune Oil,Whse_A,Category_002,2023-05-28,125
+Catch Salt,Whse_D,Category_001,2023-06-09,36
+Tata Tea,Whse_B,Category_001,2023-01-14,417
+Patanjali Shampoo,Whse_E,Category_004,2023-06-27,435
+Patanjali Shampoo,Whse_E,Category_004,2023-02-22,276
+Catch Salt,Whse_C,Category_004,2023-12-01,70
+Nestle Milk,Whse_D,Category_001,2023-01-22,123
+Kellogg's Cornflakes,Whse_A,Category_005,2023-01-30,270
+Haldiram's Snacks,Whse_A,Category_005,2023-07-10,420
+Haldiram's Snacks,Whse_B,Category_001,2023-09-17,112
+Pepsi,Whse_C,Category_001,2023-07-24,305
+Toor Dal,Whse_D,Category_004,2023-02-28,254
+Lays Chips,Whse_D,Category_001,2023-09-21,157
+Pepsi,Whse_B,Category_001,2023-01-12,131
+Sona Masoori Rice,Whse_D,Category_004,2023-04-29,251
+Himalaya Face Wash,Whse_D,Category_002,2023-10-17,44
+Saffola Oil,Whse_B,Category_003,2023-12-04,175
+Tata Biscuits,Whse_B,Category_002,2023-09-05,154
+MTR Ready Mix,Whse_C,Category_003,2023-12-20,110
+Patanjali Ghee,Whse_A,Category_002,2023-05-07,85
+Coca-Cola,Whse_D,Category_001,2023-03-16,175
+Tata Biscuits,Whse_D,Category_002,2023-12-27,203
+Aashirvaad Atta,Whse_D,Category_005,2023-07-23,136
+Patanjali Shampoo,Whse_D,Category_001,2023-02-18,52
+Fortune Oil,Whse_E,Category_002,2023-03-20,369
+Shakti Bhog Atta,Whse_A,Category_005,2023-08-29,56
+Fortune Oil,Whse_C,Category_004,2023-12-15,297
+Sona Masoori Rice,Whse_B,Category_001,2023-06-03,169
+Tata Tea,Whse_B,Category_001,2023-10-01,422
+Coca-Cola,Whse_A,Category_002,2023-04-06,138
+Catch Salt,Whse_C,Category_004,2023-08-02,100
+Tata Salt,Whse_E,Category_002,2023-10-21,385
+Patanjali Shampoo,Whse_A,Category_005,2023-07-28,434
+Aashirvaad Atta,Whse_E,Category_002,2023-12-09,435
+Patanjali Ghee,Whse_A,Category_004,2023-03-29,353
+Lays Chips,Whse_D,Category_001,2023-11-02,101
+Catch Salt,Whse_B,Category_001,2023-09-21,432
+Maggi Noodles,Whse_D,Category_002,2023-11-21,35
+Amul Butter,Whse_E,Category_004,2023-11-16,205
+Lays Chips,Whse_E,Category_002,2023-06-06,413
+Tata Tea,Whse_A,Category_004,2023-06-05,375
+Patanjali Ghee,Whse_D,Category_002,2023-05-19,277
+Haldiram's Snacks,Whse_D,Category_002,2023-05-01,115
+Fortune Oil,Whse_B,Category_002,2023-03-06,193
+Pepsi,Whse_C,Category_003,2023-04-17,200
+Parle-G Biscuits,Whse_D,Category_002,2023-05-27,190
+Sona Masoori Rice,Whse_A,Category_005,2023-05-17,-26
+Kellogg's Cornflakes,Whse_C,Category_004,2023-06-11,324
+MTR Ready Mix,Whse_A,Category_004,2023-04-10,343
+Amul Butter,Whse_C,Category_001,2023-12-04,276
+Fortune Oil,Whse_A,Category_004,2023-11-03,447
+Haldiram's Snacks,Whse_A,Category_004,2023-05-21,484
+Tata Salt,Whse_E,Category_003,2023-03-24,143
+Coca-Cola,Whse_D,Category_005,2023-06-26,123
+Aashirvaad Atta,Whse_B,Category_001,2023-07-17,123
+Saffola Oil,Whse_D,Category_004,2023-04-22,270
+Patanjali Shampoo,Whse_A,Category_004,2023-02-25,447
+MTR Ready Mix,Whse_D,Category_002,2023-06-28,258
+Sona Masoori Rice,Whse_B,Category_001,2023-07-05,107
+Fortune Oil,Whse_A,Category_005,2023-08-06,275
+Coca-Cola,Whse_C,Category_001,2023-11-12,268
+Coca-Cola,Whse_C,Category_005,2023-08-05,284
+Toor Dal,Whse_D,Category_002,2023-04-30,38
+Pillsbury Maida,Whse_B,Category_002,2023-06-24,186
+Tata Biscuits,Whse_E,Category_004,2023-01-23,249
+Tata Biscuits,Whse_B,Category_001,2023-08-01,290
+Kellogg's Cornflakes,Whse_A,Category_004,2023-08-23,403
+Haldiram's Snacks,Whse_D,Category_004,2023-01-13,277
+Tata Biscuits,Whse_E,Category_003,2023-04-11,164
+Catch Salt,Whse_C,Category_004,2023-01-24,113
+Coca-Cola,Whse_D,Category_002,2023-12-30,224
+Parle-G Biscuits,Whse_D,Category_002,2023-01-11,366
+Nestle Milk,Whse_A,Category_005,2023-09-30,5
+Patanjali Shampoo,Whse_C,Category_001,2023-10-08,277
+Patanjali Ghee,Whse_A,Category_005,2023-04-04,-26
+Lays Chips,Whse_C,Category_005,2023-07-20,257
+Fortune Oil,Whse_D,Category_001,2023-01-21,122
+Tata Biscuits,Whse_B,Category_001,2023-12-06,323
+Saffola Oil,Whse_D,Category_001,2023-07-30,57
+Parle-G Biscuits,Whse_E,Category_004,2023-05-20,189
+Fortune Oil,Whse_C,Category_002,2023-10-20,91
+MTR Ready Mix,Whse_E,Category_004,2023-10-25,452
+Kellogg's Cornflakes,Whse_A,Category_002,2023-04-11,109
+MTR Ready Mix,Whse_A,Category_005,2023-10-31,241
+Basmati Rice,Whse_C,Category_003,2023-12-25,152
+Pillsbury Maida,Whse_D,Category_002,2023-01-28,57
+Sona Masoori Rice,Whse_B,Category_001,2023-02-10,412
+Kellogg's Cornflakes,Whse_E,Category_004,2023-12-21,269
+Nescafe Coffee,Whse_A,Category_005,2023-10-30,399
+Nescafe Coffee,Whse_A,Category_005,2023-05-26,451
+Shakti Bhog Atta,Whse_C,Category_005,2023-09-13,282
+Himalaya Face Wash,Whse_B,Category_003,2023-08-15,170
+Pepsi,Whse_C,Category_003,2023-08-24,143
+Catch Salt,Whse_D,Category_001,2023-12-27,174
+Parle-G Biscuits,Whse_C,Category_001,2023-01-13,321
+Basmati Rice,Whse_B,Category_001,2023-07-29,144
+Kellogg's Cornflakes,Whse_E,Category_004,2023-08-17,408
+Patanjali Ghee,Whse_D,Category_002,2023-04-10,132
+Fortune Oil,Whse_C,Category_004,2023-01-31,123
+Sona Masoori Rice,Whse_A,Category_004,2023-01-16,399
+Saffola Oil,Whse_D,Category_002,2023-05-17,264
+Shakti Bhog Atta,Whse_D,Category_001,2023-11-25,201
+Nescafe Coffee,Whse_D,Category_002,2023-06-15,85
+Shakti Bhog Atta,Whse_B,Category_001,2023-11-06,399
+Patanjali Ghee,Whse_C,Category_004,2023-04-10,369
+Shakti Bhog Atta,Whse_E,Category_004,2023-04-19,236
+Haldiram's Snacks,Whse_E,Category_004,2023-12-09,222
+Himalaya Face Wash,Whse_E,Category_003,2023-06-22,166
+Amul Butter,Whse_B,Category_003,2023-08-25,207
+Britannia Biscuits,Whse_B,Category_001,2023-06-11,415
+Patanjali Shampoo,Whse_D,Category_002,2023-08-04,215
+Saffola Oil,Whse_A,Category_002,2023-09-21,103
+Aashirvaad Atta,Whse_B,Category_003,2023-09-20,200
+Pepsi,Whse_B,Category_001,2023-10-19,263
+Sona Masoori Rice,Whse_C,Category_001,2023-10-01,252
+Tata Tea,Whse_C,Category_003,2023-01-03,109
+Pillsbury Maida,Whse_D,Category_004,2023-01-28,195
+Tata Salt,Whse_D,Category_002,2023-11-22,90
+Parle-G Biscuits,Whse_C,Category_002,2023-05-29,14
+Himalaya Face Wash,Whse_C,Category_004,2023-01-28,345
+Kellogg's Cornflakes,Whse_E,Category_004,2023-11-06,201
+Catch Salt,Whse_B,Category_003,2023-03-06,203
+Parle-G Biscuits,Whse_B,Category_001,2023-12-22,424
+Patanjali Ghee,Whse_B,Category_001,2023-01-21,402
+Kellogg's Cornflakes,Whse_C,Category_003,2023-09-09,139
+Nescafe Coffee,Whse_B,Category_003,2023-08-23,125
+Parle-G Biscuits,Whse_A,Category_005,2023-08-15,277
+Tata Biscuits,Whse_B,Category_001,2023-01-13,399
+Lays Chips,Whse_D,Category_004,2023-11-09,344
+Tata Biscuits,Whse_C,Category_002,2023-02-18,40
+Tata Tea,Whse_C,Category_005,2023-04-28,282
+Tata Salt,Whse_E,Category_002,2023-02-23,381
+Haldiram's Snacks,Whse_C,Category_005,2023-05-18,262
+Patanjali Shampoo,Whse_D,Category_002,2023-02-22,265
+Tata Biscuits,Whse_B,Category_001,2023-02-13,201
+Aashirvaad Atta,Whse_E,Category_004,2023-10-30,259
+Aashirvaad Atta,Whse_E,Category_004,2023-02-22,200
+Sona Masoori Rice,Whse_C,Category_001,2023-03-15,231
+Kellogg's Cornflakes,Whse_D,Category_005,2023-02-15,44
+Lays Chips,Whse_E,Category_002,2023-01-13,362
+Tata Tea,Whse_D,Category_001,2023-06-14,59
+Aashirvaad Atta,Whse_E,Category_004,2023-04-12,383
+Fortune Oil,Whse_E,Category_002,2023-10-07,425
+Patanjali Ghee,Whse_A,Category_004,2023-09-15,506
+Patanjali Shampoo,Whse_B,Category_003,2023-12-03,186
+Fortune Oil,Whse_A,Category_005,2023-12-22,-2
+Amul Butter,Whse_A,Category_005,2023-05-18,478
+Amul Butter,Whse_C,Category_004,2023-06-12,303
+Pillsbury Maida,Whse_D,Category_001,2023-04-21,160
+Tata Salt,Whse_A,Category_002,2023-04-12,113
+Basmati Rice,Whse_B,Category_001,2023-01-17,384
+Coca-Cola,Whse_E,Category_003,2023-09-25,88
+Pepsi,Whse_D,Category_005,2023-07-01,61
+Fortune Oil,Whse_D,Category_004,2023-01-24,190
+Patanjali Ghee,Whse_A,Category_005,2023-01-29,306
+Britannia Biscuits,Whse_B,Category_002,2023-06-20,216
+Catch Salt,Whse_D,Category_005,2023-08-16,82
+Haldiram's Snacks,Whse_C,Category_003,2023-07-07,166
+Nestle Milk,Whse_C,Category_002,2023-12-12,19
+Pepsi,Whse_E,Category_002,2023-08-18,379
+Sona Masoori Rice,Whse_E,Category_004,2023-11-17,428
+Coca-Cola,Whse_E,Category_004,2023-12-06,359
+Pepsi,Whse_C,Category_004,2023-04-29,276
+Fortune Oil,Whse_D,Category_001,2023-06-05,15
+Lays Chips,Whse_A,Category_004,2023-09-29,410
+Coca-Cola,Whse_B,Category_001,2023-06-24,379
+Nestle Milk,Whse_A,Category_004,2023-04-14,444
+Tata Tea,Whse_B,Category_001,2023-04-02,155
+Catch Salt,Whse_A,Category_004,2023-07-05,447
+Amul Butter,Whse_D,Category_001,2023-10-10,93
+Tata Salt,Whse_B,Category_001,2023-06-30,303
+MTR Ready Mix,Whse_C,Category_005,2023-06-19,234
+Haldiram's Snacks,Whse_B,Category_001,2023-07-06,179
+Coca-Cola,Whse_D,Category_004,2023-06-24,293
+Tata Tea,Whse_B,Category_003,2023-08-10,166
+Saffola Oil,Whse_E,Category_002,2023-08-21,444
+Saffola Oil,Whse_B,Category_001,2023-06-11,314
+Catch Salt,Whse_D,Category_002,2023-05-14,279
+Tata Tea,Whse_B,Category_003,2023-08-12,182
+Pepsi,Whse_A,Category_005,2023-06-02,433
+Parle-G Biscuits,Whse_D,Category_002,2023-02-02,246
+Patanjali Ghee,Whse_B,Category_001,2023-02-24,339
+Nestle Milk,Whse_D,Category_002,2023-01-07,211
+Britannia Biscuits,Whse_B,Category_003,2023-09-01,155
+Parle-G Biscuits,Whse_E,Category_003,2023-11-09,70
+Fortune Oil,Whse_B,Category_003,2023-05-06,127
+Coca-Cola,Whse_B,Category_003,2023-01-12,218
+Himalaya Face Wash,Whse_A,Category_005,2023-01-16,23
+Sona Masoori Rice,Whse_D,Category_004,2023-07-27,264
+Pillsbury Maida,Whse_A,Category_005,2023-02-12,432
+Patanjali Shampoo,Whse_C,Category_004,2023-05-15,97
+Himalaya Face Wash,Whse_E,Category_004,2023-08-16,444
+Pepsi,Whse_C,Category_003,2023-04-21,119
+Lays Chips,Whse_A,Category_005,2023-11-03,314
+Fortune Oil,Whse_D,Category_004,2023-06-09,213
+Pillsbury Maida,Whse_C,Category_002,2023-11-27,84
+Basmati Rice,Whse_E,Category_002,2023-09-21,436
+Nescafe Coffee,Whse_A,Category_002,2023-08-13,140
+Amul Butter,Whse_E,Category_004,2023-08-05,186
+Patanjali Ghee,Whse_B,Category_003,2023-02-14,145
+Shakti Bhog Atta,Whse_D,Category_001,2023-08-02,17
+Pillsbury Maida,Whse_C,Category_001,2023-02-28,282
+Coca-Cola,Whse_E,Category_004,2023-05-12,240
+Himalaya Face Wash,Whse_B,Category_002,2023-04-14,131
+Sona Masoori Rice,Whse_C,Category_004,2023-07-14,274
+Coca-Cola,Whse_C,Category_001,2023-06-06,246
+Shakti Bhog Atta,Whse_C,Category_005,2023-04-08,225
+Saffola Oil,Whse_E,Category_003,2023-08-14,107
+Amul Butter,Whse_D,Category_001,2023-07-24,209
+Lays Chips,Whse_A,Category_005,2023-03-20,-14
+Tata Tea,Whse_D,Category_005,2023-05-04,104
+Patanjali Shampoo,Whse_B,Category_001,2023-08-06,422
+Nestle Milk,Whse_D,Category_002,2023-01-04,368
+Coca-Cola,Whse_A,Category_004,2023-03-31,443
+Haldiram's Snacks,Whse_D,Category_004,2023-04-14,306
+Pepsi,Whse_B,Category_001,2023-04-29,393
+Aashirvaad Atta,Whse_E,Category_003,2023-05-13,86
+Patanjali Shampoo,Whse_C,Category_004,2023-11-08,127
+Lays Chips,Whse_E,Category_004,2023-04-06,274
+Pillsbury Maida,Whse_A,Category_005,2023-11-27,15
+Aashirvaad Atta,Whse_A,Category_004,2023-05-23,345
+Tata Salt,Whse_D,Category_004,2023-10-15,284
+MTR Ready Mix,Whse_C,Category_002,2023-01-28,10
+Patanjali Shampoo,Whse_E,Category_004,2023-10-05,442
+Aashirvaad Atta,Whse_C,Category_002,2023-08-21,22
+Coca-Cola,Whse_E,Category_003,2023-01-17,137
+Kellogg's Cornflakes,Whse_D,Category_005,2023-02-28,50
+Tata Biscuits,Whse_A,Category_005,2023-03-31,291
+Tata Biscuits,Whse_A,Category_004,2023-07-18,428
+Pepsi,Whse_E,Category_002,2023-12-28,458
+Lays Chips,Whse_D,Category_002,2023-01-26,271

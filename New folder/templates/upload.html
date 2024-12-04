@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload CSV for Forecasting</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <header>
+        <h1>Upload Your Sales Data</h1>
+        <p>Get started by uploading your CSV file to generate accurate demand forecasts.</p>
+    </header>
+    <main>
+        <section class="upload-section">
+            <h2>How It Works</h2>
+            <p>
+                1. Upload a CSV file containing your sales data.<br>
+                2. Ensure it includes columns for <strong>Product_Code</strong>, <strong>Warehouse</strong>, <strong>Product_Category</strong>, <strong>Date</strong>, and <strong>Order_Demand</strong>.<br>
+                3. We'll process the file and generate demand forecasts for the top products.
+            </p>
+            <form action="/upload" method="POST" enctype="multipart/form-data">
+                <label for="file-upload" class="file-label">Choose your CSV file:</label>
+                <input type="file" id="file-upload" name="file" required>
+                <button type="submit" class="upload-btn">Upload File</button>
+            </form>
+        </section>
+        <section class="help-section">
+            <h2>Need Help?</h2>
+            <p>If you're unsure about the file format or process, visit our <a href="#">Help Center</a> or <a href="#">Contact Us</a> for assistance.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Demand Forecasting Tool. All rights reserved.</p>
+    </footer>
+</body>
+</html>
